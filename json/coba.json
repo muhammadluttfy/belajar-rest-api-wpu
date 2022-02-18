@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Muhammad Lutfi Edi Kurniawan",
+    "umur": 21,
+    "nim": 18083000124,
+    "lulus": true,
+    "hoby": ["coding", "badminton"],
+    "pembimbing": {
+      "pembimbing1": "Ronal David",
+      "pembimbing2": "Sandhika Galih, S.Kom, M.Kom"
+    }
+  },
+  {
+    "nama": "Ahla Ainin Nafisah",
+    "umur": 22,
+    "nim": 23493438111,
+    "lulus": true,
+    "hoby": ["coding", "badminton"],
+    "pembimbing": {
+      "pembimbing1": "Ronal David",
+      "pembimbing2": "Sandhika Galih, S.Kom, M.Kom"
+    }
+  }
+]
